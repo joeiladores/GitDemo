@@ -19,3 +19,11 @@
       font-weight: bold;
       font-size: 1rem;
     }
+
+    
+    .box1 {
+      height: 100px;
+      width: 100px;
+      padding: 1em;
+      margin: 0.5em;
+    }
